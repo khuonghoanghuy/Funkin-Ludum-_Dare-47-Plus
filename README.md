@@ -1,6 +1,8 @@
 # Friday Night Funkin' "Ludum Dare 47" PLUS!
 This is a remake version of FNF "Ludum Dare 47 'Stuck In a Loop'" With Plus Version!
 
+So that will be the first remake?
+
 # Feature:
 - Ghost tap
 - Downscroll,
